@@ -21,6 +21,7 @@ int main()
 	cout << C << endl;
 
 	cout << "Norm Square = " << C.MatrixNorm() << endl;
+	cout << "Size of class = " << sizeof(C) << endl;
 
 	if (A == B)
 		cout << "Matrix are equal" << endl;
