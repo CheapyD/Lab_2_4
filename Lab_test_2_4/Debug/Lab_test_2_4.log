@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Lab_test_2_4.cpp
+C:\Users\maksd\source\repos\Lab_2_4\Lab_2_4\Matrix.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_2_4\Lab_test_2_4\Lab_test_2_4.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\maksd\source\repos\Lab_2_4\Debug\Lab_test_2_4.lib и объект C:\Users\maksd\source\repos\Lab_2_4\Debug\Lab_test_2_4.exp
+  Lab_test_2_4.vcxproj -> C:\Users\maksd\source\repos\Lab_2_4\Debug\Lab_test_2_4.dll
